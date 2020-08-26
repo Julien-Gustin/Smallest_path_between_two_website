@@ -1,1 +1,7 @@
-# Smallest_path_between_two_website
+# A program to get the smallest path between two website
+
+## Run the smallest_path
+
+```sh
+python3 smallest_path
+```
