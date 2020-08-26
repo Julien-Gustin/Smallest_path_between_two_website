@@ -38,4 +38,4 @@ def bfs(nodes, goal, get_children, explored_set, show=False):
     if len(frontier) == 0:
         return None
 
-    return bfs(frontier, goal, get_children, explored_set)
+    return bfs(frontier, goal, get_children, explored_set, show)
