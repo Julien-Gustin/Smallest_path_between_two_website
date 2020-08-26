@@ -15,3 +15,9 @@ python3 smallest_path [-v]
 ## NB
  This program can be really really slow...
  If you want to close this program just close the terminal
+
+
+You might need to do this before :
+ ```sh
+ python -m pip install requests
+ ```
